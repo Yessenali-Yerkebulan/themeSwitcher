@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.navbar {
+    background-color: #003366;
+    padding: 10px;
+}
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    color: #ffcc00;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+form {
+    margin-top: 20px;
+}
